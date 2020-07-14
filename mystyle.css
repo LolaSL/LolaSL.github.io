@@ -1,3 +1,23 @@
 a{
-    color: green;
+    color: blue;
+}
+
+h1{
+    font-style: 50px;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    background-color: rgb(23, 141, 53);
+    border: 2px solid #0064d3;
+}
+
+p{
+    font-size: medium;
+    font-weight: 100;
+    color: black;
+    font-style: italic;
+}
+
+body{
+    background-color: #dadce4;
 }
