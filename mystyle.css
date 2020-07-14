@@ -9,15 +9,16 @@ h1{
     font-weight: bold;
     background-color: rgb(23, 141, 53);
     border: 2px solid #0064d3;
+    padding: 10px;
 }
 
-h2{
+h2:hover{
     font-style: 50px;
     color: black;
     font-style: italic;
     font-weight: bold;
 }
-p{
+p:hover{
     font-size: medium;
     font-weight: 100;
     color: black;
@@ -27,6 +28,12 @@ p{
 
 body{
     background-color: #dadce4;
+    color: black;
+    padding: 15px;
+    margin: 20px;
+    border: 7px solid gray;
+    text-align: normal;
+    background-image: url(1.jpg);
 }
 picture{
     margin: 10px;
@@ -34,4 +41,7 @@ picture{
     margin-bottom: 10px;
     margin-right: 10px;
     margin-left: 10px;
+}
+h1:hover{
+border:10px solid #0064d3;
 }
